@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# No pdfs or mds
+*.pdf
+*.md
+
 # C extensions
 *.so
 
