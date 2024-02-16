@@ -3,9 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# No pdfs or mds
+# No pdfs or mds or jsons, or notes
 *.pdf
 *.md
+*.json
+notes
 
 # C extensions
 *.so
